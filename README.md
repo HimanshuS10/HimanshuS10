@@ -1,5 +1,8 @@
-### Hi there 👋
+# 💼 Himanshu Seervi
 
+**'Student/Developer/Entrepreneur'**
+
+I'm an 18-year-old software developer and an entrepreneur with over a year of experience designing, developing, and automating tasks with the help of AI.
 <!--
 **HimanshuS10/HimanshuS10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
