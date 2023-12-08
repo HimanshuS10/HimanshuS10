@@ -1,6 +1,6 @@
 # 💼 Himanshu Seervi
 
-**'Student/Developer/Entrepreneur'**
+**`Student/Developer/Entrepreneur`**
 
 I'm an 18-year-old software developer and an entrepreneur with over a year of experience designing, developing, and automating tasks with the help of AI.
 <!--
