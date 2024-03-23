@@ -4,7 +4,7 @@
 
 **`Student/Developer/Entrepreneur`**
 
-Hello! I'm Himanshu Seervi, a passionate software engineer and an entrepreneur. Currently immersed in the exciting world of SaaS. As a first-year student at the University of Guelph, where I'm pursuing a degree in Software Engineering, I bring a fresh perspective to the dynamic field of technology. With just over a year of hands-on experience in programming, I am driven by a fervent curiosity to explore innovative solutions and contribute to the ever-evolving landscape of software development.
+Hello! I'm Himanshu Seervi, a passionate software engineer and an entrepreneur. Currently on the process of building my own company SaaS Company. As a first-year student at the University of Guelph, where I'm pursuing a degree in Software Engineering, I bring a fresh perspective to the dynamic field of technology. With just over a year of hands-on experience in programming, I am driven by a fervent curiosity to explore innovative solutions and contribute to the ever-evolving landscape of software development.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
