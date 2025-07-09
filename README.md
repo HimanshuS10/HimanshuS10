@@ -2,7 +2,6 @@
 <h3 align="center">2nd Year Software Engineering Student at University of Guelph.</h3>
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=HimanshuS10&show_icons=true)
-- 💻 I’m currently working on [Tech MasterMind](https://github.com/HimanshuS10/TechMasterMind-Website)
 
 - 📫 How to reach me **hseervi@uoguelph.ca**
 
