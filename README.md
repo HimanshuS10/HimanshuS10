@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshu Seervi</h1>
 <h3 align="center">2nd Year Software Engineering Student at University of Guelph.</h3>
 
-![My stats](https://github-readme-stats.vercel.app/api?username=HimanshuS10&show_icons=true)
 
 - 📫 How to reach me **hseervi@uoguelph.ca**
 
