@@ -57,27 +57,21 @@
 
 <div align="left">
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/postman.svg" height="40" alt="html5 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/supabase.svg" height="40" alt="javascript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase logo" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/vscode.svg" height="40" alt="tailwindcss logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/firebase.svg" height="40" alt="python logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/git.svg" height="40" alt="react logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/github.svg" height="40" alt="java logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
   <img width="12" />
      
