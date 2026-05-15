@@ -15,12 +15,12 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=HimanshuS10.HimanshuS10&" />
 </div>
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there!!</h1>
 
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
-  I'm Himanshu, a Software Engineering student at the University of Guelph 🍁<br><br>
+  I'm Himanshu, a Software Engineering student at the University of Guelph.<br><br>
   - 🔭 I'm currently building a cross-platform mobile app at The Simple Knot Inc.<br>
   - 🤖 I love working at the intersection of full-stack engineering and applied AI<br>
   - 🚀 Recent projects: Archr (AI-powered scheduler) & ExcelGPT (plain-English spreadsheet queries)<br>
