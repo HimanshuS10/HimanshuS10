@@ -21,7 +21,6 @@
 
 <p align="left">
   I'm Himanshu, a Software Engineering student at the University of Guelph.<br><br>
-  - 🔭 I'm currently building a cross-platform mobile app at The Simple Knot Inc.<br>
   - 🤖 I love working at the intersection of full-stack engineering and applied AI<br>
   - 🚀 Recent projects: Archr (AI-powered scheduler) & ExcelGPT (plain-English spreadsheet queries)<br>
   - 📚 I'm currently learning more about scalable system design and LLM evaluation<br>
